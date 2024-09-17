@@ -16,10 +16,12 @@ Maven包：Maven3.3.9
 **
 
 ## 数据库设计
-![输入图片说明](%E6%95%B0%E6%8D%AE%E5%BA%93%E8%A1%A8.png)
+![数据库表](https://github.com/user-attachments/assets/551014a8-a5cc-4c36-a417-7923199d7180)
+
 
 ## 系统结构
-![输入图片说明](Springboot%E9%A1%B9%E7%9B%AE%E7%BB%93%E6%9E%84.png)
+![Springboot项目结构](https://github.com/user-attachments/assets/fa42f6eb-17cf-42dc-a028-fbe1763df2f4)
+
 
 ## 系统功能说明
 
@@ -76,6 +78,14 @@ Maven包：Maven3.3.9
 系统可以对学生的学习数据进行分析和统计，生成报表和图表，帮助教师了解学生的学习情况和进展。
 
 ## 部分系统展示
-![输入图片说明](02%EF%BC%9A+Q%E8%8E%B7%E5%8F%962474345497.png)
-![输入图片说明](%E6%BA%90%E7%A0%81%E8%8E%B7%E5%8F%96%EF%BC%9A%EF%BC%8BV%2018484646674%E6%88%96%E8%80%85+Q2474345497.png)![输入图片说明](10.png)![输入图片说明](07.png)![输入图片说明](011.png)![输入图片说明](06.png)![输入图片说明](08.png)![输入图片说明](04%EF%BC%9A+QQ%202474345497.png)
+
+![06](https://github.com/user-attachments/assets/3d549338-e568-4800-b036-9f4b274e295e)
+![04：+QQ 2474345497](https://github.com/user-attachments/assets/755f1275-97d4-45c8-aeb4-c951e69ca3ac)
+![02：+Q获取2474345497](https://github.com/user-attachments/assets/52890d43-b48d-4b9b-b69c-461917387cca)
+![源码获取：＋V 18484646674或者+Q2474345497](https://github.com/user-attachments/assets/88912732-95c1-4656-b849-3865acb4f4fc)
+![011](https://github.com/user-attachments/assets/6f4c9a54-fefe-4810-99e4-f3605ab13199)
+![10](https://github.com/user-attachments/assets/3225c1cf-ab7c-4c38-84b6-f3a8a05269d0)
+![09](https://github.com/user-attachments/assets/4e0ae7bb-6bec-4c2f-9d0d-6a9d2398cd5e)
+![08](https://github.com/user-attachments/assets/ccd42a31-660b-419f-a061-f2ed7ef18cb9)
+![07](https://github.com/user-attachments/assets/adee2c42-327e-47e2-a430-d643826d1437)
 
