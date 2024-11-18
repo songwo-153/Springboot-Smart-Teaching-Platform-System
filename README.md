@@ -1,5 +1,4 @@
 # 基于Springboot的智慧教学平台推荐系统设计与实现
-
 #### 介绍
 基于Springboot的智慧教学平台的系统设计与实现（智慧教学推荐系统），可以进行学习分析和个性化推荐，系统可以根据学生的学习行为和表现进行分析，生成学习分析报告。根据学生的学习情况和需求，系统可以提供个性化的学习推荐和建议，推荐适合的课程和教学资源推荐（根据用户点击量或浏览量推荐）。
 
@@ -92,3 +91,4 @@ Maven包：Maven3.3.9
 ![08](https://github.com/user-attachments/assets/ccd42a31-660b-419f-a061-f2ed7ef18cb9)
 ![07](https://github.com/user-attachments/assets/adee2c42-327e-47e2-a430-d643826d1437)
 
+**源码获取：**[基于Springboot的智慧教学平台的系统源码.zip](https://github.com/user-attachments/files/17796847/Springboot.zip)
